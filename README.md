@@ -1,7 +1,7 @@
 # GNOME shell extension 
 - Install [Argos](https://github.com/p-e-w/argos).
 - Copy the files into (<span style="color:orange">~/.config/argos</span>)  folder.
-- Make sure the files are ececutables (<span style="color:orange">chmod +x filename</span>) .
+- Make sure the files are executables (<span style="color:orange">chmod +x filename</span>) .
 # Extensions
 #### System stats
 
